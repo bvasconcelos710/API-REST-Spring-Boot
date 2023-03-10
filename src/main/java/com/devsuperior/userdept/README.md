@@ -1,1 +1,1 @@
-API REST de cadastro de usuários e departamentos, utilizando Spring Boot e banco de dados H2.
+API REST Java utilizando Spring Boot e banco de dados H2.
